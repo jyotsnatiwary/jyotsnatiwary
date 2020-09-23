@@ -1,6 +1,7 @@
 
+![Git cover main (1)](https://user-images.githubusercontent.com/43038862/94036772-4cbb4900-fde2-11ea-9124-9adb49268339.jpg)
 
-### Hi there 👋
+
 
 <p align='center'>
  <a href="https://www.instagram.com/jyotsna_tiwary/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
@@ -9,7 +10,7 @@
 </p>
 <div align='center'>
  
-![Deepakshi's views](https://komarev.com/ghpvc/?username=jyotsnatiwary)
+![Jyotsna's views](https://komarev.com/ghpvc/?username=jyotsnatiwary)
 
 </div>
 
