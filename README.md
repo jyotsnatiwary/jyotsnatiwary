@@ -27,6 +27,6 @@
 
 ### My Github Stats
 
- ![Deepakshi's github stats](https://github-readme-stats.vercel.app/api?username=deepakshisud&show_icons=true&theme=solarized-light)
+ ![Jyotsna's github stats](https://github-readme-stats.vercel.app/api?username=jyotsnatiwary&show_icons=true&theme=solarized-light)
  
  </div>
