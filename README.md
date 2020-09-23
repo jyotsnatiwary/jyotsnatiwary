@@ -4,12 +4,6 @@
  <a href="https://www.instagram.com/jyotsna_tiwary/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/jtiwary0503"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/jyotsna0503/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
- [website]: https://www.ravichaudhary.me/
-[twitter]: https://twitter.com/malhotraravi842
-[youtube]: https://youtube.com/
-[instagram]: https://www.instagram.com/ravichaudhary076/
-[linkedin]: https://linkedin.com/in/malhotraravi842
-[facebook]: https://www.facebook.com/malhotraravi842/
 </p>
 <div align='center'>
  
