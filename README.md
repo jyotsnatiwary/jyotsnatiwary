@@ -31,10 +31,6 @@
 
 
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=aditya-beri.aditya-beri)
-
-
-
 <div align='center' markdown="1">
 
 ### My Github Stats
