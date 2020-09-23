@@ -18,7 +18,7 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 * **🌱 I’m currently learning** Back-end development, Linux Kernel
 * **👯 I’m looking to collaborate on** Web Development and Data science/ Machine Learning/ Natural Language Processing
-* **💬 Ask me about** Web Development, Analytics, SQL
+* **💬 Ask me about** Web Development, Data scirnce, SQL, Deep Learning
 * **⚡ Fun fact** I am a national level Muay Thai player and can actully break bones :)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <div align='center' markdown="1">
