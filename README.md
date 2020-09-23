@@ -1,7 +1,4 @@
 
-![Git cover main (1)](https://user-images.githubusercontent.com/43038862/94036772-4cbb4900-fde2-11ea-9124-9adb49268339.jpg)
-
-
 
 <p align='center'>
  <a href="https://www.instagram.com/jyotsna_tiwary/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
@@ -15,6 +12,10 @@
 </div>
 
 <h2 align="center">Hello there! My name is Jyotsna. 👋🤓</h2>
+<p align="center">I am a 3rd Year undergraduate student at Vellore Institute of Technology, Bhopal. I aspire to be a valuable resource in society; help develop software that is going to meet individual client needs. Being a team player with strong analytical and problem solving skills I come up with creative solutions for complex problems. I am professionally skilled in data science with successful record in directing from original concept till implementation to handle diverse market dynamics. I am an active blogger and passionate about inclusion of women in computing; I have been contributing to make the youth of this world well versed with programming through mentorship on different platforms.
+ </p>
+ <p>Being pragmatic by nature, I inhabit an up help desire and straight forward outlook. I believe in constant learning and exploring new things; wish to travel the world and try every cuisine. Being a national level Changquan player i understand and practice the art of time, leadership, consistency and organisation.
+</p>
 
 <!--
 **jyotsnatiwary/jyotsnatiwary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
