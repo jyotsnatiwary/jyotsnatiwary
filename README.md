@@ -7,7 +7,7 @@
 </p>
 <div align='center'>
  
-![Jyotsna's views](https://komarev.com/ghpvc/?username=jyotsnatiwary)
+
 
 </div>
 
@@ -38,3 +38,4 @@
  ![Jyotsna's github stats](https://github-readme-stats.vercel.app/api?username=jyotsnatiwary&show_icons=true&theme=solarized-light)
  
  </div>
+![Jyotsna's views](https://komarev.com/ghpvc/?username=jyotsnatiwary)
