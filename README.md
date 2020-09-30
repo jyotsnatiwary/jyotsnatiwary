@@ -38,4 +38,4 @@
  
  </div>
  
-[Jyotsna's views](https://komarev.com/ghpvc/?username=jyotsnatiwary)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=jyotsna-tiwary.jyotsna-tiwary)
