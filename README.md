@@ -8,7 +8,6 @@
 <div align='center'>
  
 
-
 </div>
 
 <p align="center">I am a 3rd Year undergraduate student at Vellore Institute of Technology, Bhopal. I aspire to be a valuable resource in society; help develop software that is going to meet individual client needs. Being a team player with strong analytical and problem solving skills I come up with creative solutions for complex problems. I am an active blogger and passionate about inclusion of women in computing. Being pragmatic by nature, I inhabit an up help desire and straight forward outlook. I believe in constant learning and exploring new things; wish to travel the world and try every cuisine.
@@ -38,4 +37,5 @@
  ![Jyotsna's github stats](https://github-readme-stats.vercel.app/api?username=jyotsnatiwary&show_icons=true&theme=solarized-light)
  
  </div>
-![Jyotsna's views](https://komarev.com/ghpvc/?username=jyotsnatiwary)
+ 
+[Jyotsna's views](https://komarev.com/ghpvc/?username=jyotsnatiwary)
