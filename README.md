@@ -35,6 +35,6 @@
 
 ### My Github Stats
 
- ![Jyotsna's github stats](https://github-readme-stats.vercel.app/api?username=jyotsnatiwary&show_icons=true&theme=solarized-light)
+ ![Jyotsna's github stats]( https://github-readme-stats.vercel.app/api/pin/?username=jyotsnatiwary&repo=github-readme-stats&cache_seconds=86400&theme=solarized-light)
  
  </div>
