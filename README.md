@@ -34,7 +34,7 @@
 
 ### My Github Stats
 
-![Jyotsna's github stats](https://github-readme-stats.vercel.app/api/?username=jyotsna-tiwary&show_icons=true&title_color=ffd1dc&icon_color=79ff97&text_color=ffd1dc&bg_color=151515)
+![Jyotsna's github stats](https://github-readme-stats.vercel.app/api/?username=jyotsnatiwary&show_icons=true&title_color=ffd1dc&icon_color=79ff97&text_color=ffd1dc&bg_color=151515)
 
  
  </div>
